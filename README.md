@@ -15,6 +15,7 @@ This opensource project is a web scraping tool that automatically downloads and 
 3. Efficiency: Utilizes Python's concurrent.futures.ThreadPoolExecutor to process multiple articles in parallel, significantly speeding up the workflow. Progress is displayed via a progress bar (tqdm).
 
 4. Output: Saves a new JSON file where each entry contains the original data plus a "preview" field (and an "error" field if any issues occurred).
+![![output](https://github.com/user-attachments/assets/07d52441-0b9e-44a0-b52d-b17986d440d0)
 
 ## Usage
 1. Install dependencies:
